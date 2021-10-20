@@ -1,6 +1,6 @@
 # ReactApp
 [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
-![kubernetes](https://img.shields.io/badge/Kubernetes-build-green)
+![kubernetes](https://img.shields.io/badge/Kubernetes-deploy-green)
 ![code](https://img.shields.io/badge/code-success-green)
 * [General info](#general-info)
 * [Technologies](#technologies)
