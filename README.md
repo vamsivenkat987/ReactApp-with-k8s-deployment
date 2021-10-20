@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This is a webapp which shows posts and comments on the wall and deployed automatically used with kubernetes. 
+This is a webapp which shows posts and comments on the wall and deployed automatically with kubernetes. 
 
 ## Technologies
 Project is created with:
