@@ -13,7 +13,7 @@ Project is created with:
 * Deployment: Kubernetes
 
 ## Setup
-To run this project, install it locally using skaffold and kubernetes:
+To run this project, first install skaffold, npm and kubernetes on local machine:
 
 ```
 $ git clone https://github.com/vamsivenkat987/ReactApp.git
